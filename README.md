@@ -44,4 +44,4 @@ pip install -r requirements.txt
 
 * The dataset will be downloaded into the `data/` folder.
 * Make sure you have an internet connection when running the download script.
----
+---First commit from Erandi!
